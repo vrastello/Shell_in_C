@@ -2,7 +2,7 @@
 * accepts standard commands from user that are in OS binaries (ls, wc etc.)
 * Implements home made function of cmd 'cd' which changes directory, goes to HOME path if no path specified
 * handles background and foreground processes (&)
-* implements binaries (ls, wc etc.) child processes that use exec function
+* implements binaries (ls, wc etc.) by creating child processes that use exec function
 * handles stdin and stdout redirection (< , >)
 * expands var $$ into parent process ID
 * has signal handler for SIGINT--(ctrl C), to not stop parent process
