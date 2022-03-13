@@ -1,5 +1,5 @@
-# Shell in C:
-  --accepts standard commands from user that are in OS binaries (ls, wc etc.)\n
+## Home made Shell, that does the following:
+  ###--accepts standard commands from user that are in OS binaries (ls, wc etc.)\n
   --Implements home made function of cmd 'cd' which changes directory, goes to HOME path if no path specified
   --handles background and foreground processes (&)
   --accesses binaries (ls, wc etc.) in operating system shell using child processes
