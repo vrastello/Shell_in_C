@@ -1,4 +1,4 @@
-# This program creates a shell that does the following:
+# Shell in C:
   --accepts standard commands from user that are in OS binaries (ls, wc etc.)
   --Implements home made function of cmd 'cd' which changes directory, goes to HOME path if no path specified
   --handles background and foreground processes (&)
